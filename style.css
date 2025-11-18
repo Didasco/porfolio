@@ -1120,6 +1120,14 @@ section {
         font-size: 1.5rem;
     }
 
+    .greeting {
+        font-size: 1.2rem;
+    }
+
+    .hero-description {
+        font-size: 1rem;
+    }
+
     .nav-menu {
         position: fixed;
         left: -100%;
@@ -1173,6 +1181,18 @@ section {
         font-size: 2rem;
     }
 
+    .role {
+        font-size: 1.2rem;
+    }
+
+    .greeting {
+        font-size: 1rem;
+    }
+
+    .hero-description {
+        font-size: 0.9rem;
+    }
+
     .section-title {
         font-size: 2rem;
     }
@@ -1193,6 +1213,18 @@ section {
     .image-card {
         max-width: 200px;
         height: 200px;
+    }
+    
+    .about-text h3 {
+        font-size: 1.5rem;
+    }
+    
+    .project-content h3 {
+        font-size: 1.3rem;
+    }
+    
+    .contact-info h3 {
+        font-size: 1.5rem;
     }
 }
 
